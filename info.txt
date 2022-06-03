@@ -1,0 +1,6 @@
+WEBPACK: src/index.js
+
+Librerias principales 
+REACT
+REACT-DOM: WEB
+REACT-
