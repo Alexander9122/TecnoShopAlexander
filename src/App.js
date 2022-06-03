@@ -1,5 +1,5 @@
 import "./estilos.css"
-import NavBar from "./NavBar"
+import NavBar from "./Componentes/NavBar"
 
 const App = () => {
     return (
